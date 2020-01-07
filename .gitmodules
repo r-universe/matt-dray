@@ -68,3 +68,8 @@
 	url = https://github.com/matt-dray/safar6
 	shallow = true
 	registered = true
+[submodule "xaringan"]
+	path = xaringan
+	url = https://github.com/yihui/xaringan
+	shallow = true
+	registered = false

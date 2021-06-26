@@ -1,5 +1,11 @@
 [
   {
+    "package": "emo",
+    "url": "https://github.com/hadley/emo",
+    "via": ["emojiscape"],
+    "from": "emojiscape"
+  },
+  {
     "package": "xaringan",
     "url": "https://github.com/yihui/xaringan",
     "via": ["gdstheme"],

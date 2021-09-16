@@ -28,6 +28,11 @@
 	url = https://github.com/matt-dray/cran
 	shallow = true
 	registered = true
+[submodule "dehex"]
+	path = dehex
+	url = https://github.com/matt-dray/dehex
+	shallow = true
+	registered = true
 [submodule "dialga"]
 	path = dialga
 	url = https://github.com/matt-dray/dialga

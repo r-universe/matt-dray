@@ -38,6 +38,11 @@
 	url = https://github.com/matt-dray/dialga
 	shallow = true
 	registered = true
+[submodule "gdstheme"]
+	path = gdstheme
+	url = https://github.com/matt-dray/gdstheme
+	shallow = true
+	registered = true
 [submodule "ghdump"]
 	path = ghdump
 	url = https://github.com/matt-dray/ghdump

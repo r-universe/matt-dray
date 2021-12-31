@@ -5,6 +5,10 @@
 [submodule "ActionSquirrel"]
 	path = ActionSquirrel
 	url = https://github.com/matt-dray/ActionSquirrel
+[submodule "CP1919"]
+	path = CP1919
+	url = https://github.com/coolbutuseless/CP1919
+	registered = false
 [submodule "altcheckr"]
 	path = altcheckr
 	url = https://github.com/matt-dray/altcheckr
@@ -29,12 +33,24 @@
 [submodule "cran"]
 	path = cran
 	url = https://github.com/matt-dray/cran
+[submodule "cryogenic"]
+	path = cryogenic
+	url = https://github.com/coolbutuseless/cryogenic
+	registered = false
 [submodule "defenestrate"]
 	path = defenestrate
 	url = https://github.com/matt-dray/defenestrate
 [submodule "dehex"]
 	path = dehex
 	url = https://github.com/matt-dray/dehex
+[submodule "devout"]
+	path = devout
+	url = https://github.com/coolbutuseless/devout
+	registered = false
+[submodule "devoutrgl"]
+	path = devoutrgl
+	url = https://github.com/coolbutuseless/devoutrgl
+	registered = false
 [submodule "dialga"]
 	path = dialga
 	url = https://github.com/matt-dray/dialga
@@ -48,6 +64,10 @@
 [submodule "gdstheme"]
 	path = gdstheme
 	url = https://github.com/matt-dray/gdstheme
+[submodule "ggrgl"]
+	path = ggrgl
+	url = https://github.com/coolbutuseless/ggrgl
+	registered = false
 [submodule "ghdump"]
 	path = ghdump
 	url = https://github.com/matt-dray/ghdump
@@ -102,9 +122,17 @@
 [submodule "snorkel"]
 	path = snorkel
 	url = https://github.com/matt-dray/snorkel
+[submodule "snowcrash"]
+	path = snowcrash
+	url = https://github.com/coolbutuseless/snowcrash
+	registered = false
 [submodule "soccercolleagues"]
 	path = soccercolleagues
 	url = https://github.com/matt-dray/soccercolleagues
+[submodule "string2path"]
+	path = string2path
+	url = https://github.com/yutannihilation/string2path
+	registered = false
 [submodule "tamRgo"]
 	path = tamRgo
 	url = https://github.com/matt-dray/tamRgo
@@ -117,6 +145,10 @@
 [submodule "trapinch"]
 	path = trapinch
 	url = https://github.com/matt-dray/trapinch
+[submodule "triangular"]
+	path = triangular
+	url = https://github.com/coolbutuseless/triangular
+	registered = false
 [submodule "wordup"]
 	path = wordup
 	url = https://github.com/matt-dray/wordup

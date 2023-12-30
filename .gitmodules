@@ -1,80 +1,50 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/matt-dray/universe
-	shallow = true
 	branch = HEAD
 [submodule "altcheckr"]
 	path = altcheckr
 	url = https://github.com/matt-dray/altcheckr
-	shallow = true
-	registered = true
 [submodule "badgr"]
 	path = badgr
 	url = https://github.com/matt-dray/badgr
-	shallow = true
-	registered = true
 [submodule "blogsnip"]
 	path = blogsnip
 	url = https://github.com/matt-dray/blogsnip
-	shallow = true
-	registered = true
 [submodule "coloratio"]
 	path = coloratio
 	url = https://github.com/matt-dray/coloratio
-	shallow = true
-	registered = true
 [submodule "cran"]
 	path = cran
 	url = https://github.com/matt-dray/cran
-	shallow = true
-	registered = true
 [submodule "dehex"]
 	path = dehex
 	url = https://github.com/matt-dray/dehex
-	shallow = true
-	registered = true
 [submodule "dialga"]
 	path = dialga
 	url = https://github.com/matt-dray/dialga
-	shallow = true
-	registered = true
 [submodule "gdstheme"]
 	path = gdstheme
 	url = https://github.com/matt-dray/gdstheme
-	shallow = true
-	registered = true
 [submodule "ghdump"]
 	path = ghdump
 	url = https://github.com/matt-dray/ghdump
-	shallow = true
-	registered = true
 [submodule "kevinbacran"]
 	path = kevinbacran
 	url = https://github.com/matt-dray/kevinbacran
-	shallow = true
-	registered = true
 [submodule "oystr"]
 	path = oystr
 	url = https://github.com/matt-dray/oystr
-	shallow = true
-	registered = true
 [submodule "pico"]
 	path = pico
 	url = https://github.com/matt-dray/pico
-	shallow = true
-	registered = true
 [submodule "r2eng"]
 	path = r2eng
 	url = https://github.com/matt-dray/r2eng
-	shallow = true
-	registered = true
 [submodule "safar6"]
 	path = safar6
 	url = https://github.com/matt-dray/safar6
-	shallow = true
-	registered = true
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/yihui/xaringan
-	shallow = true
 	registered = false

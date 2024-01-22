@@ -9,6 +9,9 @@
 	path = CP1919
 	url = https://github.com/coolbutuseless/CP1919
 	registered = false
+[submodule "a11ytables"]
+	path = a11ytables
+	url = https://github.com/co-analysis/a11ytables
 [submodule "altcheckr"]
 	path = altcheckr
 	url = https://github.com/matt-dray/altcheckr

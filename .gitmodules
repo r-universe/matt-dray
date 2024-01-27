@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/matt-dray/universe
+	url = https://github.com/matt-dray/matt-dray.r-universe.dev
 	branch = HEAD
 [submodule "ActionSquirrel"]
 	path = ActionSquirrel

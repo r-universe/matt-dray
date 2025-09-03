@@ -2,50 +2,20 @@
 	path = .registry
 	url = https://github.com/matt-dray/matt-dray.r-universe.dev
 	branch = HEAD
-[submodule "ActionSquirrel"]
-	path = ActionSquirrel
-	url = https://github.com/matt-dray/ActionSquirrel
 [submodule "CP1919"]
 	path = CP1919
 	url = https://github.com/coolbutuseless/CP1919
 	registered = false
-[submodule "a11ytables"]
-	path = a11ytables
-	url = https://github.com/co-analysis/a11ytables
-[submodule "altcheckr"]
-	path = altcheckr
-	url = https://github.com/matt-dray/altcheckr
-[submodule "backtick"]
-	path = backtick
-	url = https://github.com/matt-dray/backtick
 [submodule "badgr"]
 	path = badgr
 	url = https://github.com/matt-dray/badgr
-[submodule "bd2q"]
-	path = bd2q
-	url = https://github.com/matt-dray/bd2q
-[submodule "blogsnip"]
-	path = blogsnip
-	url = https://github.com/matt-dray/blogsnip
-[submodule "choosethis"]
-	path = choosethis
-	url = https://github.com/matt-dray/choosethis
 [submodule "coloratio"]
 	path = coloratio
 	url = https://github.com/matt-dray/coloratio
-[submodule "cran"]
-	path = cran
-	url = https://github.com/matt-dray/cran
 [submodule "cryogenic"]
 	path = cryogenic
 	url = https://github.com/coolbutuseless/cryogenic
 	registered = false
-[submodule "defenestrate"]
-	path = defenestrate
-	url = https://github.com/matt-dray/defenestrate
-[submodule "dehex"]
-	path = dehex
-	url = https://github.com/matt-dray/dehex
 [submodule "devout"]
 	path = devout
 	url = https://github.com/coolbutuseless/devout
@@ -61,12 +31,9 @@
 	path = emo
 	url = https://github.com/hadley/emo
 	registered = false
-[submodule "emojiscape"]
-	path = emojiscape
-	url = https://github.com/matt-dray/emojiscape
-[submodule "gdstheme"]
-	path = gdstheme
-	url = https://github.com/matt-dray/gdstheme
+[submodule "gex"]
+	path = gex
+	url = https://github.com/matt-dray/gex
 [submodule "ggrgl"]
 	path = ggrgl
 	url = https://github.com/coolbutuseless/ggrgl
@@ -74,54 +41,15 @@
 [submodule "ghdump"]
 	path = ghdump
 	url = https://github.com/matt-dray/ghdump
-[submodule "gpx3d"]
-	path = gpx3d
-	url = https://github.com/matt-dray/gpx3d
-[submodule "hiscore"]
-	path = hiscore
-	url = https://github.com/matt-dray/hiscore
-[submodule "hokey"]
-	path = hokey
-	url = https://github.com/matt-dray/hokey
-[submodule "kevinbacran"]
-	path = kevinbacran
-	url = https://github.com/matt-dray/kevinbacran
-[submodule "linkrot"]
-	path = linkrot
-	url = https://github.com/matt-dray/linkrot
-[submodule "oystr"]
-	path = oystr
-	url = https://github.com/matt-dray/oystr
-[submodule "pico"]
-	path = pico
-	url = https://github.com/matt-dray/pico
 [submodule "pixeltrix"]
 	path = pixeltrix
 	url = https://github.com/matt-dray/pixeltrix
-[submodule "plunderplot"]
-	path = plunderplot
-	url = https://github.com/matt-dray/plunderplot
-[submodule "potato"]
-	path = potato
-	url = https://github.com/matt-dray/potato
 [submodule "quartostamp"]
 	path = quartostamp
 	url = https://github.com/matt-dray/quartostamp
-[submodule "r.oguelike"]
-	path = r.oguelike
-	url = https://github.com/matt-dray/r.oguelike
-[submodule "r2eng"]
-	path = r2eng
-	url = https://github.com/matt-dray/r2eng
 [submodule "remorse"]
 	path = remorse
 	url = https://github.com/matt-dray/remorse
-[submodule "safar6"]
-	path = safar6
-	url = https://github.com/matt-dray/safar6
-[submodule "skyphone"]
-	path = skyphone
-	url = https://github.com/matt-dray/skyphone
 [submodule "snorkel"]
 	path = snorkel
 	url = https://github.com/matt-dray/snorkel
@@ -129,9 +57,6 @@
 	path = snowcrash
 	url = https://github.com/coolbutuseless/snowcrash
 	registered = false
-[submodule "soccercolleagues"]
-	path = soccercolleagues
-	url = https://github.com/matt-dray/soccercolleagues
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
@@ -139,12 +64,6 @@
 [submodule "tamRgo"]
 	path = tamRgo
 	url = https://github.com/matt-dray/tamRgo
-[submodule "tide"]
-	path = tide
-	url = https://github.com/matt-dray/tide
-[submodule "tidyquiz"]
-	path = tidyquiz
-	url = https://github.com/matt-dray/tidyquiz
 [submodule "trapinch"]
 	path = trapinch
 	url = https://github.com/matt-dray/trapinch
@@ -152,9 +71,6 @@
 	path = triangular
 	url = https://github.com/coolbutuseless/triangular
 	registered = false
-[submodule "wordup"]
-	path = wordup
-	url = https://github.com/matt-dray/wordup
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/yihui/xaringan

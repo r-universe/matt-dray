@@ -2,42 +2,18 @@
 	path = .registry
 	url = https://github.com/matt-dray/matt-dray.r-universe.dev
 	branch = HEAD
-[submodule "CP1919"]
-	path = CP1919
-	url = https://github.com/coolbutuseless/CP1919
-	registered = false
 [submodule "badgr"]
 	path = badgr
 	url = https://github.com/matt-dray/badgr
 [submodule "coloratio"]
 	path = coloratio
 	url = https://github.com/matt-dray/coloratio
-[submodule "cryogenic"]
-	path = cryogenic
-	url = https://github.com/coolbutuseless/cryogenic
-	registered = false
-[submodule "devout"]
-	path = devout
-	url = https://github.com/coolbutuseless/devout
-	registered = false
-[submodule "devoutrgl"]
-	path = devoutrgl
-	url = https://github.com/coolbutuseless/devoutrgl
-	registered = false
 [submodule "dialga"]
 	path = dialga
 	url = https://github.com/matt-dray/dialga
-[submodule "emo"]
-	path = emo
-	url = https://github.com/hadley/emo
-	registered = false
 [submodule "gex"]
 	path = gex
 	url = https://github.com/matt-dray/gex
-[submodule "ggrgl"]
-	path = ggrgl
-	url = https://github.com/coolbutuseless/ggrgl
-	registered = false
 [submodule "ghdump"]
 	path = ghdump
 	url = https://github.com/matt-dray/ghdump
@@ -53,25 +29,9 @@
 [submodule "snorkel"]
 	path = snorkel
 	url = https://github.com/matt-dray/snorkel
-[submodule "snowcrash"]
-	path = snowcrash
-	url = https://github.com/coolbutuseless/snowcrash
-	registered = false
-[submodule "string2path"]
-	path = string2path
-	url = https://github.com/yutannihilation/string2path
-	registered = false
 [submodule "tamRgo"]
 	path = tamRgo
 	url = https://github.com/matt-dray/tamRgo
 [submodule "trapinch"]
 	path = trapinch
 	url = https://github.com/matt-dray/trapinch
-[submodule "triangular"]
-	path = triangular
-	url = https://github.com/coolbutuseless/triangular
-	registered = false
-[submodule "xaringan"]
-	path = xaringan
-	url = https://github.com/yihui/xaringan
-	registered = false
